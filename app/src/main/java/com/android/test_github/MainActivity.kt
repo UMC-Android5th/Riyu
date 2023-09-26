@@ -7,5 +7,9 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        // 주석
+        // 미션에 대한 내용을 수행
+        // 미션 1, 2, 3
+        // 미션 1 내용만 다 수행
     }
 }
