@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         // 미션 1 내용만 다 수행
 
         // 미션 2 수행 완료
+
+        // 미션 3 수행 완료
     }
 }
